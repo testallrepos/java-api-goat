@@ -1,2 +1,2 @@
-# java-api-goat12ww
+# java-api-goat
 A simple Java Spring Boot REST App with Vulnerabilities.w
