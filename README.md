@@ -1,2 +1,2 @@
-# java-api-goat1w2236778w333wwweee
+# java-api-goat1w2
 A simple Java Spring Boot REST App with Vulnerabilities.etyui
